@@ -1,0 +1,2 @@
+# Econometric-Analysis-of-Sesamum-Sesame-Crop-Production-in-India
+A comprehensive data science and econometrics project analyzing the production function for Sesamum (Sesame) across Indian districts (2017). The project employs Cobb-Douglas and Quadratic models to estimate input elasticities, rigorously test for diminishing marginal returns, and assess the complementarity of irrigation and fertilizer application.
